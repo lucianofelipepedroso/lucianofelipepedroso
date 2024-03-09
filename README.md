@@ -1,11 +1,12 @@
-### Hi there 👋
+
 
 
 :office: Developer | Tech Lead | Tata Consultancy Services <br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-plain-wordmark.svg" width="40" height="40" />
 
-
+## Sobre :
+Mais de 15 anos de experiência, formado em Ciências da Computação com diversas especializações e certificados, atuando hoje como Analista de Sistemas Sênior, altamente especializado em Java e no desenvolvimento de APIs em ambiente bancário e financeiro de alta complexidade e segurança. <br>
 
 ## Contatos:
 
