@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
- 🔭 Mais de 15 anos de experiência, formado em Ciências da Computação com diversas especializações e certificados, atuando hoje como Analista de Sistemas Sênior, altamente especializado em Java e no   
-     desenvolvimento de APIs em ambiente bancário e financeiro de alta complexidade e segurança.
- 📫 https://www.linkedin.com/in/luciano-felipe-p-368b5b1a1/
-⚡ Mais de 15 anos de experiência, formado em Ciências da Computação
+ 🔭 Mais de 15 anos de experiência, formado em Ciências da Computação com diversas especializações e certificados, atuando hoje como Analista de Sistemas Sênior, 
+     altamente especializado em Java e no desenvolvimento de APIs em ambiente bancário e financeiro de alta complexidade e segurança.</a>
+ 📫 https://www.linkedin.com/in/luciano-felipe-p-368b5b1a1/ </a>
+⚡  Mais de 15 anos de experiência, formado em Ciências da Computação </a>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-plain-wordmark.svg" width="40" height="40" />
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Contatos:
 
 <div>
-<a href = "mailto:luciano.pedroso@live.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:pedroso.developer@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/luciano-felipe-p-368b5b1a1/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
